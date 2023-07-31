@@ -19,7 +19,7 @@ prepare() {
 [Desktop Entry]
 Name=Around
 Comment=Around.co linux client
-Exec="/opt/${pkgname}/${_appimage}" %U
+Exec=/opt/${pkgname}/${_appimage} %U
 Terminal=false
 Type=Application
 Categories=Network;Application;

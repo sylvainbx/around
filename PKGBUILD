@@ -24,6 +24,7 @@ Terminal=false
 Type=Application
 Categories=Network;Application;
 Icon=${pkgname}.png
+MimeType=x-scheme-handler/around;
 EOL
 }
 
